@@ -1,6 +1,6 @@
 ### Hi there 👋
 My name is Markus, and I am a Full-Stack Developer mainly focusing on backend and infrastructure topics.  
-I am mainly focusing on NodeJS and Python with a little extra on C#, Ruby on Rails, and PHP.
+I am mainly focusing on NodeJS and Python with a little extra on C#, Ruby on Rails, PHP, Go and C++ (Arduino).
 ---
 ### Some Statistics:
 Since statistics are quite appealing, here you find a short story about my activities on GitHub  
