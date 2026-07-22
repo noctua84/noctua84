@@ -5,8 +5,10 @@ I am mainly focusing on NodeJS and Python with a little extra on C#, Ruby on Rai
 ### Some Statistics:
 Since statistics are quite appealing, here you find a short story about my activities on GitHub  
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noctua84&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=noctua84&show_icons=true&theme=radical&count_private=true)
+[![Top Langs](https://github-stats-extende.vercel.app/api/top-langs/?username=noctua84&theme=radical&size_weight=0.5&count_weight=0.5&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's github stats](https://github-stats-extended.vercel.app/api?username=noctua84&show_icons=true&theme=radical&count_private=true)
+
+
 ---
 ### Proof of Work:
 As for proof of work and what I am doing, just take a look at my public repositories.  
