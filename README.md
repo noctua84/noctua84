@@ -12,6 +12,8 @@ Since statistics are quite appealing, here you find a short story about my activ
 ### Proof of Work:
 As for proof of work and what I am doing, just take a look at my public repositories.  
 But keep in mind, that not everyone is reflecting my current abilities as a software developer. 
+
+My latest project is [NescioAI](https://github.com/noctua84/nescio-ai) - an agentic AI framework with a build-in learning loop, the right to say "I don't know" and the ability to questioning itself 
 <!--
 **noctua84/noctua84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
