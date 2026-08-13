@@ -1,4 +1,4 @@
-### **Backend and platform engineer.** Essen, Germany.
+### **Backend and platform engineer**
 
 I build backend systems and run the infrastructure they sit on.
 
