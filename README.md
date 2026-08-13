@@ -1,30 +1,33 @@
-### Hi there 👋
-My name is Markus, and I am a Full-Stack Developer mainly focusing on backend and infrastructure topics.  
-I use primarily NodeJS and Python and have additional knowledge in C#, Ruby on Rails and PHP.
+### Markus Möller
+
+**Backend and platform engineer.** Essen, Germany.
+
+I build backend systems and run the infrastructure they sit on.
+
+At **Cognigy** (part of NiCE) I work on an enterprise conversational-AI and contact
+center platform — Ruby on Rails and TypeScript across a microservice backend and
+Module Federation microfrontends.
+
+Alongside that I am the sole architect and lead engineer of **Souls'Gate**, a
+marketplace for booked live video sessions. Real-time WebRTC on Mediasoup, an
+Express/Prisma room manager, two MicroK8s clusters on Hetzner, Stripe billing with a
+custom entitlement model, OpenTelemetry throughout. The architecture decision, the
+implementation and the pager are the same person's problem.
+
+#### What I'm building in the open
+
+**[nescio](https://github.com/noctua84/nescio-ai)** — an agent crew for Claude Code,
+built around a commitment most agent frameworks don't make: an agent may return
+*"I don't know"* as a defined outcome instead of a plausible guess. Ten agents, a
+validator that gates plans before execution, a critic free to conclude the plan holds,
+and a memory that grows out of finished sessions. Python, MIT, discussions open.
+
+#### Working with
+
+`TypeScript` `Ruby on Rails` `Node.js` `Python` `React` `Vue 3`
+`PostgreSQL` `Redis` `Kubernetes` `Docker` `WebRTC` `OpenTelemetry`
+
 ---
-### Some Statistics:
-Since statistics are quite appealing, here you find a short story about my activities on GitHub  
 
-[![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=noctua84&langs_count=4&theme=noctis_minimus)](https://github-stats-extended.vercel.app/api/top-langs?username=noctua84&langs_count=4&theme=noctis_minimus)
-[![GitHub Stats](https://github-stats-extended.vercel.app/api?username=noctua84&show_icons=true&include_all_commits=true&theme=noctis_minimus)](https://github-stats-extended.vercel.app/api?username=noctua84&show_icons=true&include_all_commits=true&theme=noctis_minimus)
-
----
-### Proof of Work:
-As for proof of work and what I am doing, just take a look at my public repositories.  
-But keep in mind, that not everyone is reflecting my current abilities as a software developer. 
-
-My latest project is [NescioAI](https://github.com/noctua84/nescio-ai) - an agentic AI framework with a build-in learning loop, the right to say "I don't know" and the ability to questioning itself 
-<!--
-**noctua84/noctua84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[LinkedIn](https://www.linkedin.com/in/markus-möller-90a874108) ·
+[Xing](https://www.xing.com/profile/Markus_Moeller48)
