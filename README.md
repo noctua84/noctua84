@@ -20,6 +20,11 @@ built around a commitment most agent frameworks don't make: an agent may return
 validator that gates plans before execution, a critic free to conclude the plan holds,
 and a memory that grows out of finished sessions. Python, MIT, discussions open.
 
+#### Writing
+
+[The telephone game with hallucinations](https://medium.com/@thurgon84/nescioai-article-paste-source-the-telephone-game-with-hallucinations-dfd4d4f3a46b) — why multi-agent systems get more
+confident as they get less right, and where to put the check.
+
 #### Working with
 
 `TypeScript` `Ruby on Rails` `Node.js` `Python` `React` `Vue 3`
