@@ -14,7 +14,7 @@ implementation and the pager are the same person's problem.
 
 #### What I'm building in the open
 
-**[nescio](https://github.com/noctua84/nescio-ai)** — an agent crew for Claude Code,
+**[nescio-ai](https://github.com/noctua84/nescio-ai)** — an agent crew for Claude Code,
 built around a commitment most agent frameworks don't make: an agent may return
 *"I don't know"* as a defined outcome instead of a plausible guess. Ten agents, a
 validator that gates plans before execution, a critic free to conclude the plan holds,
